@@ -1,10 +1,4 @@
-# StegoCrypt-Image-Steganography-Tool
-A Python-based image steganography tool that hides and retrieves secret messages in images using pixel manipulation. It supports separate encryption and decryption processes with a passcode for security. Built with OpenCV, this project is great for learning steganography, cryptography, and image processing.
-Here’s a **README.md** file for your project. It includes installation steps, troubleshooting tips, and how to use the encryption/decryption scripts.  
-
----
-
-# 🛠 Steganography using OpenCV  
+# 🛠 StegoCrypt-Image-Steganography-Tool
 
 ### 🎯 **What is this?**  
 This is a simple tool that lets you hide a secret message inside an image and later retrieve it. The encryption and decryption are done using Python and OpenCV, and the image format used is **PNG** to avoid data loss.  
