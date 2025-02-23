@@ -86,7 +86,7 @@ python -m pip install --upgrade pip
 
 ## 📸 Screenshot
 
-![Code Image](https://raw.githubusercontent.com/tanmay0409/StegoCrypt-Image-Steganography-Tool/main/Code%20Images%20Format.png)
+![Code Image](https://raw.githubusercontent.com/tanmay0409/StegoCrypt-Image-Steganography-Tool/main/code_image.png)
 
 ---
 
