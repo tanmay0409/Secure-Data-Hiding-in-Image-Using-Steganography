@@ -94,3 +94,9 @@ python -m pip install --upgrade pip
 If you found this useful, **give it a ⭐ on GitHub!** 😊  
 
 ---
+
+###  **🚨 Disclaimer**  
+
+This project is for educational and ethical purposes only. The author is not responsible for any misuse, illegal activities, or harm caused by using this code. This project is intended for learning purposes only. The creator is not liable for any unintended consequences arising from the use of this code. Use it ethically and responsibly.
+
+---
