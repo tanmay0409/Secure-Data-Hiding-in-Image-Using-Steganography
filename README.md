@@ -1,5 +1,5 @@
 
-# 🛠 **Steganography using OpenCV**  
+# 🛠 **Secure Data Hiding in Image Using Steganography**  
 
 ### 🎯 **What is this?**  
 This project allows you to **hide a secret message** inside an image and later **retrieve it**. The encryption and decryption process is done using **Python and OpenCV**, with **PNG** images for better quality and lossless data hiding.  
