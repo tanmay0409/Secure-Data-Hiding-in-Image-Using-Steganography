@@ -72,10 +72,7 @@ This will make sure pip is installed and updated properly.
 
 ---
 
-## 📜 License  
-This project is open-source and free to use.  
+## Screenshot
 
-💬 **If you run into any issues, feel free to ask!** 🚀  
 
----
 
