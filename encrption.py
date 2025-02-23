@@ -22,7 +22,7 @@ for char in msg:
     if m >= img.shape[1]:  # Move to next row
         m = 0
         n += 1
-
+        
 cv2.imwrite("encryptedImage.png", img)  # Save as PNG
 os.system("start encryptedImage.png")
 print("Encryption Done! Image saved as encryptedImage.png")
