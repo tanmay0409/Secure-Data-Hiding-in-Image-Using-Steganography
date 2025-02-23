@@ -74,6 +74,6 @@ This will make sure pip is installed and updated properly.
 
 ## Screenshot
 
-https://raw.githubusercontent.com/tanmay0409/StegoCrypt-Image-Steganography-Tool/main/Code%20Images%20Format.png
+![Code_Images_Format.png](https://raw.githubusercontent.com/tanmay0409/StegoCrypt-Image-Steganography-Tool/main/Code_Images_Format.png)
 
 
